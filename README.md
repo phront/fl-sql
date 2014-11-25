@@ -1,4 +1,4 @@
 fl-sql
 ======
 
-A prototype that combines functional programming and SQL.
+A prototype that supports combination of functional programming and SQL.
